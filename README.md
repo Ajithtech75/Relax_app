@@ -1,6 +1,6 @@
 # relax_app
 
-A new Flutter application.
+RELAX is a Stress Free Application built with FLUTTER.
 
 ## Getting Started
 
