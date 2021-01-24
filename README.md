@@ -1,4 +1,4 @@
-# relax_app
+# Relax_app
 
 RELAX is a Stress Free Application built with FLUTTER.
 
