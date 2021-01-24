@@ -2,6 +2,12 @@
 
 RELAX is a Stress Free Application built with FLUTTER.
 
+
+## :sunglasses:  Overview: :point_down:
+
+<img src="https://github.com/tharunc/Relax_app/blob/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" height="200px"/> <br>
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
